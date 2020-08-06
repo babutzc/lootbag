@@ -26,9 +26,9 @@ __Enumeration__
 [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)  
 
 __DNS__  
-[Amass](https://github.com/OWASP/Amass) 
-[Subfinder](https://github.com/projectdiscovery/subfinder)
-[Massdns](https://github.com/blechschmidt/massdns)
+[Amass](https://github.com/OWASP/Amass)  
+[Subfinder](https://github.com/projectdiscovery/subfinder)  
+[Massdns](https://github.com/blechschmidt/massdns)  
 
 __Directory Bruteforcer__  
 [Dirsearch](https://github.com/maurosoria/dirsearch)  
