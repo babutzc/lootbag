@@ -4,7 +4,7 @@ A repository devoted to collect interesting netsec information.
 
 
 # Blogs/Videos/Podcasts/Other media
-This section is devoted for information gathering, interessting posts, video's, podcast and other media related things 
+This section is devoted to information gathering, interessting posts, video's, podcast and other media related things 
 
 ## Web
 __Practical Web Cache Poisoning__  
@@ -19,7 +19,7 @@ Jason Haddix shows some of his workflow when doing BugBountys.
 
 
 # Tooling  
-This section will is devoted for tooling. 
+This section  is devoted to tooling. 
 
 __Enumeration__  
 [Httprobe](https://github.com/tomnomnom/httprobe)   
