@@ -21,9 +21,9 @@ Jason Haddix shows some of his workflow when doing BugBountys.
 # Tooling  
 This section will is devoted for tooling. 
 
-__Enumeration__ 
-[Httprobe](https://github.com/tomnomnom/httprobe) 
-[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
+__Enumeration__  
+[Httprobe](https://github.com/tomnomnom/httprobe)   
+[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)  
 
 __DNS__  
 [Amass](https://github.com/OWASP/Amass) 
