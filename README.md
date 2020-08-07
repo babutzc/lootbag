@@ -12,11 +12,15 @@ Shows how Web Cache Poisoning can be used to take over a website
 [Blog Post](https://portswigger.net/research/practical-web-cache-poisoning)   
 [Youtube Video](https://www.youtube.com/watch?time_continue=55&v=j2RrmNxJZ5c&feature=emb_logo)
 
+__Web Cache Entanglement: Novel Pathways to Poisoning__  
+[Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
 
-__Jason Haddix Mythlogy v4__  
+## Methodology
+__Jason Haddix Methodology v4__  
 Jason Haddix shows some of his workflow when doing BugBountys.  
 [The Bug Hunter's Methodology v4.0 - Recon Edition by @jhaddix #NahamCon2020!](https://www.youtube.com/watch?v=p4JgIu1mceI)
 
+## Channels
 __Bug Crowd Youtube Channel__  
 [Channel](https://www.youtube.com/c/Bugcrowd)
 
