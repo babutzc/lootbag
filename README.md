@@ -13,6 +13,7 @@ Shows how Web Cache Poisoning can be used to take over a website
 [Youtube Video](https://www.youtube.com/watch?time_continue=55&v=j2RrmNxJZ5c&feature=emb_logo)
 
 __Web Cache Entanglement: Novel Pathways to Poisoning__  
+Continues where Practical Web Cache Poisining stopped
 [Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
 
 ## Methodology
