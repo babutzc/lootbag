@@ -17,6 +17,9 @@ __Jason Haddix Mythlogy v4__
 Jason Haddix shows some of his workflow when doing BugBountys.  
 [The Bug Hunter's Methodology v4.0 - Recon Edition by @jhaddix #NahamCon2020!](https://www.youtube.com/watch?v=p4JgIu1mceI)
 
+__Bug Crowd Youtube Channel__  
+[Channel](https://www.youtube.com/c/Bugcrowd)
+
 
 # Tooling  
 This section  is devoted to tooling. 
