@@ -25,6 +25,10 @@ Jason Haddix shows some of his workflow when doing BugBountys.
 __Bug Crowd Youtube Channel__  
 [Channel](https://www.youtube.com/c/Bugcrowd)
 
+## Wordlists
+
+__Subdomain ALL.txt list by Jason Haddix__  
+[Subdomain name wordlist](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056#file-all-txt-L89009)  
 
 # Tooling  
 This section  is devoted to tooling. 
