@@ -18,7 +18,7 @@ Continues where Practical Web Cache Poisining stops
 
 ## Windows
 
-__Windows Server 2008R2-2019 NetMan DLL Hijacking__
+__Windows Server 2008R2-2019 NetMan DLL Hijacking__.  
 [Windows Server 2008R2-2019 netman DLL-Hijacking](https://itm4n.github.io/windows-server-netman-dll-hijacking/) 
 
 ## Methodology
@@ -52,7 +52,7 @@ __Directory Bruteforcer__
 [Wfuzz](https://github.com/xmendez/wfuzz)  
 [Gobuster](https://github.com/OJ/gobuster)  
 
-__Windows Privesc__. 
+__Windows Privesc__.  
 [PrivescCheck](https://github.com/itm4n/PrivescCheck)
 
 
