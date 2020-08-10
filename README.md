@@ -14,7 +14,12 @@ Shows how Web Cache Poisoning can be used to take over a website
 
 __Web Cache Entanglement: Novel Pathways to Poisoning__  
 Continues where Practical Web Cache Poisining stops
-[Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)
+[Web Cache Entanglement: Novel Pathways to Poisoning](https://portswigger.net/research/web-cache-entanglement)\
+
+## Windows
+
+__Windows Server 2008R2-2019 NetMan DLL Hijacking__
+[Windows Server 2008R2-2019 netman DLL-Hijacking](https://itm4n.github.io/windows-server-netman-dll-hijacking/) 
 
 ## Methodology
 __Jason Haddix Methodology v4__  
@@ -46,3 +51,8 @@ __Directory Bruteforcer__
 [Dirsearch](https://github.com/maurosoria/dirsearch)  
 [Wfuzz](https://github.com/xmendez/wfuzz)  
 [Gobuster](https://github.com/OJ/gobuster)  
+
+__Windows Privesc__. 
+[PrivescCheck](https://github.com/itm4n/PrivescCheck)
+
+
