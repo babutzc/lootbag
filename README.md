@@ -17,7 +17,7 @@ __REST Security Cheat Sheet__ - As the title says: A cheatsheet for REST API's
 
 ## Windows
 
-__Windows Server 2008R2-2019 NetMan DLL Hijacking__ - A DLL-Hijacking attack when C:\Windows\System32\WindowsPowershell\v.1.0\ is present in the %PATH% variable   
+__Windows Server 2008R2-2019 NetMan DLL Hijacking__ - A DLL-Hijacking attack when the %PATH% variable contains the path C:\Windows\System32\WindowsPowershell\
 * [Windows Server 2008R2-2019 netman DLL-Hijacking](https://itm4n.github.io/windows-server-netman-dll-hijacking/)    
 
 ## Methodology
