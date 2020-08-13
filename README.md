@@ -5,8 +5,7 @@ A repository devoted to collect interesting netsec information.
 This section is devoted to information gathering, interessting posts, video's, podcast and other media related things 
 
 ## Web
-__Practical Web Cache Poisoning__  
-Shows how Web Cache Poisoning can be used to take over a website  
+__Practical Web Cache Poisoning__ - shows how Web Cache Poisoning can be used to take over a website  
 * [Blog Post](https://portswigger.net/research/practical-web-cache-poisoning)   
 * [Youtube Video](https://www.youtube.com/watch?time_continue=55&v=j2RrmNxJZ5c&feature=emb_logo)
 
