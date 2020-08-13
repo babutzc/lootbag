@@ -37,7 +37,7 @@ __Subdomain ALL.txt list by Jason Haddix__ -Subdomain wordlist
 This section  is devoted to tooling.  
 
 __Shells__.   
-* [Powershell - Reverse Shell based on Nishang](https://gist.github.com/FrankSpierings/4afe8e2ea1cb21a53fca28697688fbd5)
+* [ [Powershell] Reverse Shell based on Nishang](https://gist.github.com/FrankSpierings/4afe8e2ea1cb21a53fca28697688fbd5)
 
 __Enumeration__  
 * [Httprobe](https://github.com/tomnomnom/httprobe)   
